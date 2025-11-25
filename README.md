@@ -1,7 +1,6 @@
 # Amazon-Prime-Video-Movies-TV-Shows-Power-BI-Dashboard
 Power BI dashboard analyzing Amazon Prime Video movies &amp; TV shows across genres, ratings, release years and countries. Includes KPIs, map visuals and insights for content strategy.
 
-# Amazon Prime Video Movies & TV Shows — Power BI Dashboard
 # Project Overview
 This project analyzes the Amazon Prime Video entertainment catalog using Power BI to understand the distribution of movies & TV shows by genre, release year, age ratings, and country.
 The dashboard provides interactive insights for content strategy, production focus and audience segmentation.
