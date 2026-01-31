@@ -14,13 +14,14 @@ The dashboard provides interactive insights for content strategy, production foc
  6. What age groups are targeted most?	Ratings segmentation (PG, R, 18+, etc.)
     
 # Dashboard Features
-# Feature	                                                  # Description
-KPI Cards                                                	Total Titles, Directors, Genres, Ratings, Start & End Year
-Map Chart	                                                Concentration of shows by country
-Stacked Bar Charts	                                      Movies vs TV Shows distribution
-Line / Area Chart	                                        Trend of releases across years
-Rating Breakdown	                                        Audience certification-based content segmentation
-Genre Analysis	                                          Top genres contributing to the catalog
+
+# Feature	                                                  
+KPI Cards            :-     Total Titles, Directors, Genres, Ratings, Start & End Year
+Map Chart	           :-     Concentration of shows by country
+Stacked Bar Charts	  :-     Movies vs TV Shows distribution
+Line / Area Chart	   :-     Trend of releases across years
+Rating Breakdown	    :-     Audience certification-based content segmentation
+Genre Analysis	      :-     Top genres contributing to the catalog
 
 # Dataset Information
    The dataset includes:
@@ -34,12 +35,13 @@ Genre Analysis	                                          Top genres contributing
    Source: Amazon Prime Video titles publicly available dataset (Kaggle / IMDb)
 
 # Tools & Techniques Used
-# Area	                                                       Details
-Data Cleaning	                                                Power Query
-BI Tool	                                                      Power BI
-Modeling	                                                    Star schema (single fact table)
-Key Concepts	                                                DAX, KPIs, Filtering, Drilldowns, Cards, Map visuals
-File Format	                                                  .pbix dashboard, .csv dataset
+
+# Area	                                                      
+Data Cleaning	  :-    Power Query
+BI Tool	        :-    Power BI
+Modeling	       :-    Star schema (single fact table)
+Key Concepts	   :-    DAX, KPIs, Filtering, Drilldowns, Cards, Map visuals
+File Format	    :-    .pbix dashboard, .csv dataset
 
 # Insights Summary
 1. Movies dominate the platform compared to TV shows
