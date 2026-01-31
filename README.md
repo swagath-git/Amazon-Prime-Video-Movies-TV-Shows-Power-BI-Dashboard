@@ -6,12 +6,12 @@ This project analyzes the Amazon Prime Video entertainment catalog using Power B
 The dashboard provides interactive insights for content strategy, production focus and audience segmentation.
 
 # Key Business Questions Answered
-    1. Question	Insights Provided
-    2. What type of content dominates the platform?	Breakdown of Movies vs TV Shows
-    3. How has content evolved over time?	Release year trend visual
-    4. Which genres are most common?	Genre distribution chart
-    5. How many titles exist across countries?	Map visualization by country
-    6. What age groups are targeted most?	Ratings segmentation (PG, R, 18+, etc.)
+ 1. Question	Insights Provided
+ 2. What type of content dominates the platform?	Breakdown of Movies vs TV Shows
+ 3. How has content evolved over time?	Release year trend visual
+ 4. Which genres are most common?	Genre distribution chart
+ 5. How many titles exist across countries?	Map visualization by country
+ 6. What age groups are targeted most?	Ratings segmentation (PG, R, 18+, etc.)
     
 # Dashboard Features
 # Feature	                                                  # Description
@@ -42,8 +42,8 @@ Key Concepts	                                                DAX, KPIs, Filterin
 File Format	                                                  .pbix dashboard, .csv dataset
 
 # Insights Summary
-✔ Movies dominate the platform compared to TV shows
-✔ Strong increase in content releases after 2000
-✔ Drama, Comedy, and Suspense are the most common genres
-✔ Ratings such as 13+ & 16+ have the highest share, indicating focus on teen & young adult audience
-✔ Global distribution — content available across multiple countries
+1. Movies dominate the platform compared to TV shows
+2. Strong increase in content releases after 2000
+3. Drama, Comedy, and Suspense are the most common genres
+4. Ratings such as 13+ & 16+ have the highest share, indicating focus on teen & young adult audience
+5. Global distribution — content available across multiple countries
