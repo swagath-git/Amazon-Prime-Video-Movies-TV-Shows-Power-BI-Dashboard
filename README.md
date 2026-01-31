@@ -16,12 +16,12 @@ The dashboard provides interactive insights for content strategy, production foc
 # Dashboard Features
 
 # Feature	                                                  
-KPI Cards            :-     Total Titles, Directors, Genres, Ratings, Start & End Year
-Map Chart	           :-     Concentration of shows by country
-Stacked Bar Charts	  :-     Movies vs TV Shows distribution
-Line / Area Chart	   :-     Trend of releases across years
-Rating Breakdown	    :-     Audience certification-based content segmentation
-Genre Analysis	      :-     Top genres contributing to the catalog
+1. KPI Cards            :-     Total Titles, Directors, Genres, Ratings, Start & End Year
+2. Map Chart	           :-     Concentration of shows by country
+3. Stacked Bar Charts	  :-     Movies vs TV Shows distribution
+4. Line / Area Chart	   :-     Trend of releases across years
+5. Rating Breakdown	    :-     Audience certification-based content segmentation
+6. Genre Analysis	      :-     Top genres contributing to the catalog
 
 # Dataset Information
    The dataset includes:
@@ -37,11 +37,11 @@ Genre Analysis	      :-     Top genres contributing to the catalog
 # Tools & Techniques Used
 
 # Area	                                                      
-Data Cleaning	  :-    Power Query
-BI Tool	        :-    Power BI
-Modeling	       :-    Star schema (single fact table)
-Key Concepts	   :-    DAX, KPIs, Filtering, Drilldowns, Cards, Map visuals
-File Format	    :-    .pbix dashboard, .csv dataset
+1. Data Cleaning	  :-    Power Query
+2. BI Tool	        :-    Power BI
+3. Modeling	       :-    Star schema (single fact table)
+4. Key Concepts	   :-    DAX, KPIs, Filtering, Drilldowns, Cards, Map visuals
+5. File Format	    :-    .pbix dashboard, .csv dataset
 
 # Insights Summary
 1. Movies dominate the platform compared to TV shows
