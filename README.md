@@ -1,4 +1,41 @@
-# 1. Amazon-Prime-Video-Movies-TV-Shows-Power-BI-Dashboard
+# 1. Sales Performance Analysis Dashboard
+
+## Overview
+
+This project is a responsive Sales Performance Dashboard created using an Excel dataset and AI-assisted front-end development. The dashboard visualizes key sales metrics such as revenue, profit, units sold, customer segments, shipping modes, product performance, and state-wise sales through interactive charts and cards.
+
+The primary objective of this project is to present business data in a clean, modern, and easy-to-understand dashboard interface.
+
+# Technologies Uses
+ - Excel
+ - Claude AI
+
+# Key Insights
+ - Consumer customers contribute the highest percentage of total sales.
+ - Standard Class shipping is used for the majority of orders.
+ - A small number of products generate a large share of revenue.
+ - Sales vary significantly across different states.
+ - Monthly sales trends help identify high and low performing periods.
+
+
+
+# Project Purpose
+### This project was created to practice:
+
+ - Dashboard UI Design
+ - Business Data Visualization
+ - Front-end Development
+ - Working with Excel datasets
+ - AI-assisted development workflow
+   
+# Note
+
+This is a front-end dashboard project built using an Excel dataset. The dashboard design and implementation were created with AI assistance (Claude AI), while the dataset analysis, customization, and project organization were completed by the author.
+
+
+
+
+# 2. Amazon-Prime-Video-Movies-TV-Shows-Power-BI-Dashboard
 Power BI dashboard analyzing Amazon Prime Video movies &amp; TV shows across genres, ratings, release years and countries. Includes KPIs, map visuals and insights for content strategy.
 
 ### Project Overview
@@ -51,7 +88,7 @@ The dashboard provides interactive insights for content strategy, production foc
 5. Global distribution — content available across multiple countries
 
 
-# 2. Swiggy-Restaurant-Data-Analysis-Dashboard
+# 3. Swiggy-Restaurant-Data-Analysis-Dashboard
 Developed a Power BI dashboard to analyze Swiggy restaurant data and uncover insights on cuisine trends, pricing, delivery time and high-demand areas.
 
 ### Project Overview
